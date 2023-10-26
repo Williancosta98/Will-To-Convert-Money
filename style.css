@@ -1,0 +1,47 @@
+body {
+    background-color: #8c52fe ;
+}
+
+img{
+width: 500px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+h1{
+    font-weight: 500;
+    font-size: 28px;
+}
+
+div {
+background-color: white;    
+width: 450px;
+height: 210px;
+text-align: center;
+padding: 2%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 25px;
+border-radius: 12px;
+}
+
+input{
+width: 205px;
+height: 33px;
+margin: 5px;
+
+}
+
+button{
+    margin-top: 25px;
+    width: 440px;
+    height: 50px;
+    background-color: #8c52fe;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+}
